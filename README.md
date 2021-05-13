@@ -1,13 +1,14 @@
-### Olá 👋
+### Olá, sou João Andrade 👋!
 
-## Sou João Andrade
+## 
 
+- :checkered_flag: Moro em São Paulo, :brazil:
+- :newspaper: Atuo com gerenciamento de projetos
+- :computer: Metodologia ágil, scrum
+- :computer: Estudande de ciência da computação
+- :computer: Desenvolvedor júnior 
 
-- Moro em São Paulo, Brasil.
-- Atuo com gerenciamento de projetos, com metodologia scrum
-- Sou estudande de ciência da computação e fora do espaço acadêmico estudo ReactJs
-
-## Contato:
+## Contato
 
 <a href="https://www.linkedin.com/in/joao-vitor-andrade-de-araujo-9656b119b/" target="_blank">
 <img align="center" alt="Joao-LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
