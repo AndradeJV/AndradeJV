@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://www.instagram.com/andradejv__/" target="_blank">
-<img align="center" alt="" height="30" width="40" src="https://i.pinimg.com/originals/2e/f8/76/2ef87634de7dde5c8c8de700712896b3.png">
+<img align="center" alt="" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620961410~hmac=fa6252f420e294b67ce0d152d0b38303">
 </a>
 
 ### Conhecimentos:
