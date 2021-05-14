@@ -26,6 +26,10 @@
 <img align="center" alt="" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620961410~hmac=fa6252f420e294b67ce0d152d0b38303">
 </a>
 
+<a href="https://discord.com/channels/@me" target="_blank">
+<img align="center" alt="" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1620962909~hmac=a7db8a07e04249920b2900c8409fbc73">
+</a>
+
 ### Conhecimentos:
 
 - <img align="center" alt="C" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> Primeiro contato com programação onde desenvolvi diversos pequenos projetos.
