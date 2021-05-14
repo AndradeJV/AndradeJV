@@ -30,7 +30,7 @@
 
 - <img align="center" alt="C" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> Primeiro contato com programação onde desenvolvi diversos pequenos projetos.
 - <img align="center" alt="HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> Conhecimentos consolidados.
-- <img align="center" alt="CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> No momento estou estudando sobre Flexbox, Media Queries e responsividade.
+- <img align="center" alt="CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> No momento estou estudando sobre Flexbox, CSS Grid, Media Queries e responsividade.
 - <img align="center" alt="Js" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> Com o contato com C, não tive dificuldades para aprender a nova linguagem. O desafio está sendo manipular o DOM. Que hoje tem sido minha prioridade.
 - <img align="center" alt="Java" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Conhecimentos em orientação a objetos e um grande projeto de batalha de monstros desenvolvido com colaboração.
 - <img align="center" alt="Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  Realizei um único projeto que demandou conexão com o banco de dados e automação com selenium.
