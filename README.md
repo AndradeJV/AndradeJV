@@ -1,4 +1,4 @@
-### Olá, sou João Andrade 👋!
+### Olá, sou João Andrade 👋
 
 ## 
 
