@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://www.instagram.com/andradejv__/" target="_blank">
-<img align="center" alt="Instagram" height="35" width="40" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
+<img align="center" alt="Instagram" height="30" width="35" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
 </a>
 
 ### Conhecimentos:
