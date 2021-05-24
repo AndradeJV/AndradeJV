@@ -10,8 +10,8 @@
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/joao-vitor-andrade-de-araujo-9656b119b/">
-<img align="center" alt="Joao-LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank">
+<a href="https://www.linkedin.com/in/joao-vitor-andrade-de-araujo-9656b119b/" target="_blank">
+<img align="center" alt="Joao-LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
 <a href="https://twitter.com/andradejv__" target="_blank">
