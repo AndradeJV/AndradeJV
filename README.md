@@ -15,15 +15,15 @@
 </a>
 
 <a href="https://twitter.com/andradejv__" target="_blank">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
+<img align="center" alt="Twitter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
 </a>
 
 <a href="https://www.facebook.com/JoaoBotelhoAndrade/" target="_blank">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+<img align="center" alt="Facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
 </a>
 
 <a href="https://www.instagram.com/andradejv__/" target="_blank">
-<img align="center" alt="" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620961410~hmac=fa6252f420e294b67ce0d152d0b38303">
+<img align="center" alt="Instagram" height="35" width="40" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
 </a>
 
 ### Conhecimentos:
