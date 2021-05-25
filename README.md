@@ -51,3 +51,10 @@
 #### - Back-end:
 <img align="center" alt="node" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img align="center" alt="mysql" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="mongodb" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> <img align="center" alt="aws" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"> <img align="center" alt="docker" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
+##
+
+### Atividade:
+
+<a href="https://github.com/AndradeJV">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndradeJV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeJV&layout=compact&langs_count=16&theme=dracula"/>
