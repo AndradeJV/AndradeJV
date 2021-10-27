@@ -1,12 +1,12 @@
-#### console.log("Olá, sou João Andrade 👋");
+#### console.log("Hi, I'm Joao Andrade 👋");
 
 ## 
 
 - Moro em São Paulo,  :brazil:
-- Atualmente sou estagiário em QA
-- Metodologia ágil, scrum
-- Estudande de ciência da computação
-- Desenvolvedor júnior 
+- Quality Assurance | Automated Tests
+- Agile, scrum
+- Science Computer
+- Fullstack developer junior 
 
 ## Contato
 
