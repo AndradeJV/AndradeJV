@@ -3,10 +3,10 @@
 ## 
 
 - São Paulo,  :brazil:
-- Quality Assurance
 - Agile, scrum
 - Ciência da computação
-- Back-end developer
+- Quality Assurance
+- Desenvolvedor back-end
 - RPA
 - Ciência de Dados
 
