@@ -2,11 +2,13 @@
 
 ## 
 
-- Moro em São Paulo,  :brazil:
-- Quality Assurance | Automated Tests
+- São Paulo,  :brazil:
+- Quality Assurance
 - Agile, scrum
-- Science Computer
-- Fullstack developer junior 
+- Ciência da computação
+- Back-end developer
+- RPA
+- Ciência de Dados
 
 ## Contato
 
