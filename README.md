@@ -6,7 +6,6 @@
 - Agile, scrum
 - Ciência da computação
 - Quality Assurance
-- Desenvolvedor back-end
 - RPA
 - Ciência de Dados
 
