@@ -3,11 +3,10 @@
 ## 
 
 - São Paulo,  :brazil:
-- Agile, scrum
 - Ciência da computação
 - Quality Assurance
 - RPA
-- Ciência de Dados
+
 
 ## Contato
 
