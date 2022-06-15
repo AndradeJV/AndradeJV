@@ -9,16 +9,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeJV&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
-
-## Contact
-
-<a href="https://www.linkedin.com/in/joao-vitor-andrade-de-araujo-9656b119b/" target="_blank">
-  <img align="center" alt="Joao-LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-</a>
-
-<a href="https://www.instagram.com/andradejv__/" target="_blank">
-  <img align="center" alt="Instagram" height="30" width="30" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)">
-</a>
+<a href = "https://www.linkedin.com/in/joao-vitor-andrade-de-araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/andradejv__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## Skills
 
