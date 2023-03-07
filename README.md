@@ -1,6 +1,5 @@
 - Sao Paulo,  :brazil:
-- Analysis and Systems Development
-- Quality Assurance
+- Software Engineer
 - Automated Tests
 
 <div align="left">
